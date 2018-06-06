@@ -7,7 +7,7 @@ To begin, run the code to view the main menu. The main menu consists of 6 option
 3) . . . Depth First Search
 4) . . . A* using Misplaced Tiles
 5) . . . A* using Manhattan Distance.
--999) Exit
+6) Exit (-999)
 
 If there is no solution, the program will inform you so.
 
